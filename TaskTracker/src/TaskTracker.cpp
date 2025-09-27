@@ -1,6 +1,7 @@
 #include<iostream>
 
 int main() {
-    // use gmain loop
+    std::cout << "Hello world";
+    return 0;
 }
 
